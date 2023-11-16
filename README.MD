@@ -11,7 +11,10 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
+  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -62,6 +65,10 @@ The project is built using the following technologies:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+### Prerequisites
+
+To run this project successfully,  you should install Ruby and have a preferred code editor.
+
 ## Setup
 
 To get a local copy up and running, follow these steps.
@@ -72,7 +79,17 @@ To get a local copy up and running, follow these steps.
 git clone https://github.com/maximoortelli/OOP_SCHOOL_LIBRARY_PART.git
 
 ```
+### Install
 
+To retrieve the dependencies of this project.. run
+
+- bundle install
+
+### Usage
+
+To run the project, execute the following command:
+
+- ruby main.rb
 
 ## 👥 Authors <a name="authors"></a>
 
