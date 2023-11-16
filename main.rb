@@ -107,6 +107,7 @@ def execute_option(option, app)
     puts 'Invalid option. Please choose a valid option.'
   end
 end
+
 def list_all_books(app)
   app.list_books
 end
