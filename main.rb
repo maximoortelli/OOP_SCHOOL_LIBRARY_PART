@@ -88,27 +88,6 @@ end
 
 # Solucion al error de cyclomatic complexity
 
-def execute_option(option, app)
-  case option
-  when 1
-    list_all_books(app)
-  when 2
-    list_all_people(app)
-  when 3
-    create_person(app)
-  when 4
-    create_book(app)
-  when 5
-    create_rental(app)
-  when 6
-    list_rentals_for_person(app)
-  when 7
-    exit_app(app)
-  else
-    puts 'Invalid option. Please choose a valid option.'
-  end
-end
-
 def list_all_books(app)
   app.list_books
 end
