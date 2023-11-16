@@ -25,8 +25,8 @@ class Student < Person
   def to_h
     classroom_label = @classroom&.label
     super.merge({
-      classroom: classroom_label
-    })
+                  classroom: classroom_label
+                })
   end
 
   def play_hooky
