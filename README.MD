@@ -81,6 +81,11 @@ git clone https://github.com/maximoortelli/OOP_SCHOOL_LIBRARY_PART.git
 - GitHub: [@Maximo Ortelli](https://github.com/maximoortelli)
 - LinkedIn: [Maximo Ortelli](https://www.linkedin.com/in/maximo-ortelli-rueda/)
 
+👤 **Erwin Amador**
+
+- GitHub: [@Erwin Amador](https://github.com/eamador1)
+- LinkedIn: [Erwin Amador](https://www.linkedin.com/in/hokieamador/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
