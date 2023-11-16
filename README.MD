@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 OOP_School_Library_Part_2 <a name="about-project"></a>
+# 📖 OOP_School_Library_Part <a name="about-project"></a>
 
 Welcome to the OOP_School_Library project! This application serves as a tool for librarians at OOP University to manage their book records and track book borrowings.
 
@@ -69,7 +69,7 @@ To get a local copy up and running, follow these steps.
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/maximoortelli/OOP_SCHOOL_LIBRARY_PART_2.git
+git clone https://github.com/maximoortelli/OOP_SCHOOL_LIBRARY_PART.git
 
 ```
 
@@ -80,13 +80,6 @@ git clone https://github.com/maximoortelli/OOP_SCHOOL_LIBRARY_PART_2.git
 
 - GitHub: [@Maximo Ortelli](https://github.com/maximoortelli)
 - LinkedIn: [Maximo Ortelli](https://www.linkedin.com/in/maximo-ortelli-rueda/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-👤 **Ivonne Benites**
-
-- GitHub: [@IvonneBenites](https://github.com/IvonneBenitesRodriguez)
-- LinkedIn: [IvonneBenites](https://www.linkedin.com/in/ivonnebenites/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +97,7 @@ git clone https://github.com/maximoortelli/OOP_SCHOOL_LIBRARY_PART_2.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/maximoortelli/OOP_SCHOOL_LIBRARY_PART_2/issues).
+Feel free to check the [issues page](https://github.com/maximoortelli/OOP_SCHOOL_LIBRARY_PART/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
