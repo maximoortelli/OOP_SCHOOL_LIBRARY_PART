@@ -17,7 +17,7 @@ class Rental
   def to_h
     {
       date: @date,
-      book_title: @book.title,
+      book_title: @book&.title,
       person_id: @person.id
     }
   end

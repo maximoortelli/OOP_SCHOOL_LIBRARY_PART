@@ -23,9 +23,10 @@ class Student < Person
   end
 
   def to_h
+    classroom_label = @classroom&.label
     super.merge({
-                  classroom: @classroom.label # Cambiado para evitar la recursividad
-                })
+      classroom: classroom_label
+    })
   end
 
   def play_hooky
