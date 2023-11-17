@@ -1,4 +1,3 @@
-# classroom_spec.rb
 require 'rspec'
 require_relative '../classroom'
 require_relative '../person'
